@@ -115,7 +115,7 @@ pip install numpy napari scipy scikit-image magicgui qtpy mrcfile trimesh
 
 ### Script Source
 
-[Download the Napari Segmentation Script](https://gist.github.com/shahpnmlab/9c67b77b698575a313369f64cad01dc9)
+[Download the Napari Segmentation Script](https://gist.github.com/shahpnmlab/bfed09e668c7a0225c5ba44cb38277f2)
 
 ### Usage
 
